@@ -1,0 +1,10 @@
+{
+  "name": "Javascript-Equal-Height-Responsive-Rows",
+  "repo": "factorial-io/Javascript-Equal-Height-Responsive-Rows",
+  "version": "*",
+  "scripts": [
+    "grids.min.js"
+  ],
+  "author": "Sam152",
+  "license": "MIT"
+}
